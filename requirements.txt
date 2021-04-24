@@ -1,0 +1,8 @@
+jupyterlab
+notebook
+ipykernel
+matplotlib
+scipy
+pandas
+statsmodels
+seaborn
