@@ -18,11 +18,11 @@ Ahora descarga este repositorio:
 git clone https://github.com/bonaldee/Proyecto_OP2.git
 ```
 
-Entra al repositorio y asegúrate estar en la rama "master" : 
+Entra al repositorio y asegúrate estar en la rama "main" : 
 
 ```
 cd Proyecto_OP2
-git checkout master
+git checkout main
 ```
 
 Ahora instala las bibliotecas que usaremos con:
