@@ -7,3 +7,6 @@ pandas
 statsmodels
 seaborn
 pytrends
+tweepy
+argparse
+requests
