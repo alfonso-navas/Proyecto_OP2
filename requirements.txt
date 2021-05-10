@@ -10,3 +10,9 @@ pytrends
 tweepy
 argparse
 requests
+twarc
+datatime
+itertools
+twarc.client2
+json
+csv
