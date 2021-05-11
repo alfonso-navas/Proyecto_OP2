@@ -1,3 +1,0 @@
-name,source,date(UTC),description
-daily-new-estimated-covid-19-infections-ihme-model.csv,https://ourworldindata.org/grapher/daily-new-estimated-covid-19-infections-ihme-model?time=2020-02-22..2021-04-23&country=~VEN,2021-04-24 16:27,Data from the Institute for Health Metrics and Evaluation (IHME) estimating the true number of COVID-19 infections for currently 166 countries and territories. Estimates and regions covered are as of 16 April 2021. More details can be found at http://www.healthdata.org/covid.
-GoFundMeData_VenezuelaCovid_20210421.pkl,https://github.com/HarveyMaddocks/gofundme_webscraper/blob/main/GoFundMeData_Venezuela%20Covid_20210421.pkl,2021-04.27 22:31,preliminary data webscrapped from GoFoundMe
