@@ -1,0 +1,82 @@
+lang,author_id,entities/urls/0/start,entities/urls/0/end,entities/urls/0/url,entities/urls/0/expanded_url,entities/urls/0/display_url,entities/annotations/0/start,entities/annotations/0/end,entities/annotations/0/probability,entities/annotations/0/type,entities/annotations/0/normalized_text,entities/hashtags/0/start,entities/hashtags/0/end,entities/hashtags/0/tag,text,context_annotations/0/domain/id,context_annotations/0/domain/name,context_annotations/0/domain/description,context_annotations/0/entity/id,context_annotations/0/entity/name,public_metrics/retweet_count,public_metrics/reply_count,public_metrics/like_count,public_metrics/quote_count,geo/place_id,attachments/media_keys/0,created_at,reply_settings,id,source,possibly_sensitive,conversation_id,entities/annotations/1/start,entities/annotations/1/end,entities/annotations/1/probability,entities/annotations/1/type,entities/annotations/1/normalized_text,entities/urls/0/images/0/url,entities/urls/0/images/0/width,entities/urls/0/images/0/height,entities/urls/0/images/1/url,entities/urls/0/images/1/width,entities/urls/0/images/1/height,entities/urls/0/status,entities/urls/0/title,entities/urls/0/description,entities/urls/0/unwound_url,entities/annotations/2/start,entities/annotations/2/end,entities/annotations/2/probability,entities/annotations/2/type,entities/annotations/2/normalized_text,entities/hashtags/1/start,entities/hashtags/1/end,entities/hashtags/1/tag,entities/hashtags/2/start,entities/hashtags/2/end,entities/hashtags/2/tag,geo/coordinates/type,geo/coordinates/coordinates/0,geo/coordinates/coordinates/1,entities/mentions/0/start,entities/mentions/0/end,entities/mentions/0/username,entities/mentions/1/start,entities/mentions/1/end,entities/mentions/1/username,entities/mentions/2/start,entities/mentions/2/end,entities/mentions/2/username,in_reply_to_user_id,entities/hashtags/3/start,entities/hashtags/3/end,entities/hashtags/3/tag,entities/annotations/3/start,entities/annotations/3/end,entities/annotations/3/probability,entities/annotations/3/type,entities/annotations/3/normalized_text
+es,49782961,217,240,https://t.co/dF9s1hMic7,https://twitter.com/tovarguedez/status/1390082020542459911/photo/1,pic.twitter.com/dF9s1hMic7,148,156,0.9967,Place,Venezuela,0,16,ServicioPublico,"#ServicioPublico - para paciente covid-19 se requiere con urgencia Perfenidona en tabletas de 267 mg. La familia no la ha encontrado hasta ahora en Venezuela, pero si alguien tiene información, agradezco compartirla. https://t.co/dF9s1hMic7",123,Ongoing News Story,Ongoing News Stories like 'Brexit',1220701888179359745,COVID-19,7,2,5,0,015cbec154ca1c9c,31390082016058675210,2021-05-05T23:12:34+00:00,everyone,1390082020542459911,Twitter for iPhone,False,1390082020542459911,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+es,116876568,124,147,https://t.co/JRDbFb7KlU,https://twitter.com/tibisayromero/status/1389656974493683716/photo/1,pic.twitter.com/JRDbFb7KlU,38,59,0.9795,Person,Carlos Olivares Romero,0,16,ServicioPúblico,#ServicioPúblico para mi primo médico Carlos Olivares Romero que está hospitalizado por Covid-19. Toda ayuda es importante. https://t.co/JRDbFb7KlU,123,Ongoing News Story,Ongoing News Stories like 'Brexit',1220701888179359745,COVID-19,719,4,190,11,015d19216c749864,31389656972023193604,2021-05-04T19:03:35+00:00,everyone,1389656974493683716,Twitter for Android,False,1389656974493683716,88,92,0.2666,Person,Covid,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+es,118116171,84,107,https://t.co/IXleUgvnBs,https://gofund.me/79dfbca1,gofund.me/79dfbca1,,,,,,0,16,ServicioPublico,"#ServicioPublico Les pido su colaboración para difundir o donar 🙏🏻 Es para mi papá 
+https://t.co/IXleUgvnBs",,,,,,0,0,0,0,008eb02a542ac3d4,,2021-04-21T14:32:36+00:00,everyone,1384877736729120769,Twitter for iPhone,False,1384877736729120769,,,,,,https://pbs.twimg.com/news_img/1382882313655160834/rRBXa_-l?format=jpg&name=orig,810,457,https://pbs.twimg.com/news_img/1382882313655160834/rRBXa_-l?format=jpg&name=150x150,150,150,200,"Ayuda a Tony a superar el Covid 19, organized by Daniela Osio","Mi papá tiene 76 años y el covid 19 le provocó una fuerte neumonía, por lo tanto debe… Daniela Osio needs your support for Ayuda a Tony a superar el Covid 19",https://www.gofundme.com/f/ayuda-a-tony-a-superar-el-covid-19?utm_campaign=p_nacp+share-sheet&utm_medium=copy_link&utm_source=customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+es,15246855,224,247,https://t.co/ruaWTKaiAy,https://gofund.me/18cf2956,gofund.me/18cf2956,54,59,0.356,Person,COVID,0,16,ServicioPublico,"#ServicioPublico
+
+Ayuda al Mtro. Rugeles para superar COVID
+
+El Maestro  Alfredo Rugeles atraviesa una situación de salud delicada, acaba de ser diagnosticado de Covid-19 y fue hospitalizado por deficiencias respiratorias 
+
+https://t.co/ruaWTKaiAy",123,Ongoing News Story,Ongoing News Stories like 'Brexit',1220701888179359745,COVID-19,2,1,1,0,07d9e4eaaec80001,,2021-04-12T16:14:09+00:00,everyone,1381641799073157127,Twitter for iPhone,False,1381641799073157127,73,87,0.5169,Person,Alfredo Rugeles,,,,,,,,,,,162,166,0.3615,Place,Covid,,,,,,,,,,,,,,,,,,,,,,,,,,,
+es,1044317006621798400,78,101,https://t.co/0EMCtjjJYU,https://gofund.me/9cf64ac0,gofund.me/9cf64ac0,38,50,0.6133,Person,Juan M Guerra,0,8,10Abril,"#10Abril. #ServicioPúblico 
+
+#URGENTE Juan M Guerra necesita de ti (COVID-19) https://t.co/0EMCtjjJYU",123,Ongoing News Story,Ongoing News Stories like 'Brexit',1220701888179359745,COVID-19,7,0,0,0,00ec4c32070f5076,,2021-04-10T16:36:13+00:00,everyone,1380922577850396682,Twitter for Android,False,1380922577850396682,,,,,,,,,,,,,,,,,,,,,10,26,ServicioPúblico,29,37,URGENTE,,,,,,,,,,,,,,,,,,,,,
+es,21964479,141,164,https://t.co/j9k1Hx5bzw,https://twitter.com/Auxi1984/status/1379808960367190020/photo/1,pic.twitter.com/j9k1Hx5bzw,,,,,,0,16,ServicioPublico,"#ServicioPublico #Caracas Busco Remdisivir en ampolla para unos primos que tienen #Covid_19 
+
+Si tienen información, porfa escríbanme al DM. https://t.co/j9k1Hx5bzw",123,Ongoing News Story,Ongoing News Stories like 'Brexit',1220701888179359745,COVID-19,0,2,0,1,00ec4c32070f5076,31379808958525870087,2021-04-07T14:51:06+00:00,everyone,1379808960367190020,Twitter for Android,False,1379808960367190020,,,,,,,,,,,,,,,,,,,,,17,25,Caracas,82,91,Covid_19,,,,,,,,,,,,,,,,,,,,,
+es,111795210,,,,,,69,75,0.9958,Place,Caracas,0,16,ServicioPublico,#ServicioPublico | Para paciente con fibrosis pulmonar (Covid-19) en Caracas se requiere con carácter de urgencia Pirfenidona (Esbriet). ¡Gracias!,123,Ongoing News Story,Ongoing News Stories like 'Brexit',1220701888179359745,COVID-19,2,0,0,0,01c93e351e3122fb,,2021-04-06T00:01:51+00:00,everyone,1379222787223650304,Twitter for Android,False,1379222787223650304,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+es,1105601070192119809,204,227,https://t.co/drF4DwPC9E,https://www.instagram.com/p/CNH0IU_sjrZ/?igshid=1829hddpoddn0,instagram.com/p/CNH0IU_sjrZ/…,195,202,0.9894,Place,Carabobo,0,16,ServicioPublico,"#ServicioPublico #MarbelisMiranda
+
+Hoy necesita de nosotros.
+
+Pedimos hoy, una mano amiga para que nuestra amiga pueda tener todos los recursos para enfrentar la COVID-19.
+
+#PorLaSaludYLaVida en Carabobo https://t.co/drF4DwPC9E",123,Ongoing News Story,Ongoing News Stories like 'Brexit',1220701888179359745,COVID-19,0,0,0,0,015d19216c749864,,2021-04-01T11:43:51+00:00,everyone,1377587509450862595,Instagram,False,1377587509450862595,,,,,,,,,,,,,,,,,,,,,17,33,MarbelisMiranda,173,191,PorLaSaludYLaVida,Point,-67.98,10.193,,,,,,,,,,,,,,,,,,
+es,1260764204082049024,213,236,https://t.co/kEwtMFemeP,https://twitter.com/Sentir_UCVista/status/1377341868011229184/photo/1,pic.twitter.com/kEwtMFemeP,,,,,,0,16,ServicioPublico,"#ServicioPublico | Se requiere con carácter de urgencia, para paciente COVID-19+ familiar de estudiantes de la #UCV
+
+⚠️ Concentrador de Oxígeno de 10L ⚠️
+
+Cualquier tipo de información, contactar al: 0414-2335964 https://t.co/kEwtMFemeP",123,Ongoing News Story,Ongoing News Stories like 'Brexit',1220701888179359745,COVID-19,14,0,9,1,00ec4c32070f5076,31377341862390956042,2021-03-31T19:27:45+00:00,everyone,1377341868011229184,Twitter for Android,False,1377341868011229184,,,,,,,,,,,,,,,,,,,,,111,115,UCV,,,,,,,,,,,,,,,,,,,,,,,,
+es,2539085183,163,186,https://t.co/MLpmBp9kye,https://twitter.com/valeriaaortizm/status/1377338834585747457/photo/1,pic.twitter.com/MLpmBp9kye,56,60,0.2393,Organization,10lts,0,16,ServicioPublico,"#ServicioPublico Se solicita concentrador de oxígeno de 10lts para paciente de 67 años con COVID-19. 
+
+Tío de mi amiga Maria Caiafa
+Cualquier cosa al 0424-2559888 https://t.co/MLpmBp9kye",123,Ongoing News Story,Ongoing News Stories like 'Brexit',1220701888179359745,COVID-19,0,0,0,0,00ec4c32070f5076,31377338826285273092,2021-03-31T19:15:42+00:00,everyone,1377338834585747457,Twitter for iPhone,False,1377338834585747457,119,130,0.9571,Person,Maria Caiafa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+es,21964479,128,151,https://t.co/FtoKhqGxnN,https://www.gofundme.com/f/fondos-de-ayuda-para-yajaira-por-covid19?utm_source=whatsapp-visit&utm_medium=chat&utm_campaign=p_cp+share-sheet,gofundme.com/f/fondos-de-ay…,32,38,0.4958,Person,Yajaira,14,30,ServicioPublico,"@fundasperven #ServicioPublico 
+Yajaira necesita apoyo para superar la COVID-19. Más detalles, link de GoFundMe para ayudarla👇:
+https://t.co/FtoKhqGxnN
+@torresale71 @GreyMena",123,Ongoing News Story,Ongoing News Stories like 'Brexit',1220701888179359745,COVID-19,6,0,2,0,00ec4c32070f5076,,2021-03-30T19:42:31+00:00,everyone,1376983195502182409,Twitter for Android,False,1376983195502182409,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,13,fundasperven,152,164,torresale71,165,174,GreyMena,399630167,,,,,,,,
+es,67153643,211,234,https://t.co/HNhY5ndAQK,https://twitter.com/LidkRodelo/status/1373414918528061440/photo/1,pic.twitter.com/HNhY5ndAQK,,,,,,0,16,ServicioPúblico,"#ServicioPúblico Para paciente con COVID-19 en #Guarenas se requiere con urgencia, en calidad de donación, lo siguiente:
+
+√ Levofloxacina 500mg ampollas
+
+√ Bombona de oxígeno
+
+Contacto: Yuviris Coy
+0424-1374295 https://t.co/HNhY5ndAQK",123,Ongoing News Story,Ongoing News Stories like 'Brexit',1220701888179359745,COVID-19,156,1,34,2,01c93e351e3122fb,31373414915894095876,2021-03-20T23:23:28+00:00,everyone,1373414918528061440,Twitter for Android,False,1373414918528061440,,,,,,,,,,,,,,,,,,,,,47,56,Guarenas,,,,,,,,,,,,,,,,,,,,,,,,
+es,130672677,155,178,https://t.co/m9clSebp5U,https://twitter.com/milmanrique/status/1371855359510478853/photo/1,pic.twitter.com/m9clSebp5U,112,118,0.9925,Place,Caracas,0,7,16marz,"#16marz #ServicioPublico 
+
+🆘 Con carácter de URGENCIA buscamos este medicamento para paciente con #covid_19 en Caracas 
+
+➡️ TOCILIZUMAB 200mg 
+
+#Venezuela https://t.co/m9clSebp5U",123,Ongoing News Story,Ongoing News Stories like 'Brexit',1220701888179359745,COVID-19,226,6,23,1,00ec4c32070f5076,31371855356092149766,2021-03-16T16:06:20+00:00,everyone,1371855359510478853,Twitter for iPhone,False,1371855359510478853,,,,,,,,,,,,,,,,,,,,,8,24,ServicioPublico,98,107,covid_19,,,,,,,,,,,,,,144,154,Venezuela,,,,,
+es,111312959,267,290,https://t.co/7bgOARvS2S,https://twitter.com/FagroLUZ/status/1371236110253326347/photo/1,pic.twitter.com/7bgOARvS2S,85,107,0.9604,Person,Werner Gutiérrez Ferrer,0,16,ServicioPublico,"#ServicioPublico Recurrimos a tu apoyo y generosidad para ayudar a nuestro compañero Werner Gutiérrez Ferrer, exdecano de FagroLUZ, y su esposa Mirvana Boves, egresada de esta facultad,quienes en estos momentos padecen Covid-19. Dios les compense. (Inf en el flyer). https://t.co/7bgOARvS2S",123,Ongoing News Story,Ongoing News Stories like 'Brexit',1220701888179359745,COVID-19,30,0,18,0,01d677e97eae46b3,31371236106910453762,2021-03-14T23:05:39+00:00,everyone,1371236110253326347,Twitter for Android,False,1371236110253326347,122,129,0.4323,Person,FagroLUZ,,,,,,,,,,,144,156,0.5873,Person,Mirvana Boves,,,,,,,,,,,,,,,,,,,,,,,,,,,
+es,67153643,224,247,https://t.co/zQDW6OOEOH,https://twitter.com/LidkRodelo/status/1358000799419367424/photo/1,pic.twitter.com/zQDW6OOEOH,91,97,0.4852,Organization,FCU-UCV,0,16,ServicioPúblico,"#ServicioPúblico Para la abuela del dirigente estudiantil @LuisPalaciosHe presidente de la FCU-UCV, hospitalizada por COVID-19, se requiere con urgencia:
+
+√ Enoxapirina 60mg
+√ Metilprednisolona 200mg
+
+Contacto: 0414-9122533 https://t.co/zQDW6OOEOH",123,Ongoing News Story,Ongoing News Stories like 'Brexit',1220701888179359745,COVID-19,21,0,8,0,00dd051c4ae032b0,31358000797053763584,2021-02-06T10:33:15+00:00,everyone,1358000799419367424,Twitter for Android,False,1358000799419367424,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,58,73,LuisPalaciosHe,,,,,,,,,,,,,,,
+es,182972567,,,,,,48,52,0.2411,Organization,Covid,0,16,ServicioPúblico,"#ServicioPúblico: Se necesita para paciente con Covid 19 el medicamento Clexane o Enoxparina en ampolla 40 mg y pañales desechables. El paciente es un  adulto mayor funcionario de la @meridaalcaldia  Regidor de un Mercado Municipal. Telf contacto +58 414-7006978. 
+#Mérida",123,Ongoing News Story,Ongoing News Stories like 'Brexit',1220701888179359745,COVID-19,7,1,4,0,01cb69a764a68d10,,2021-01-31T22:43:00+00:00,everyone,1356010119197294594,Twitter for Android,False,1356010119197294594,214,230,0.4963,Place,Mercado Municipal,,,,,,,,,,,,,,,,265,272,Mérida,,,,,,,183,198,meridaalcaldia,,,,,,,,,,,,,,,
+es,182972567,,,,,,41,45,0.3326,Place,IHULA,0,16,ServicioPúblico,"#ServicioPúblico Paciente recluida en el IHULA por #Covid_19 con complicaciones renales se requiere. 
+🔹Catéter Bilumen 16cm 
+12fr x 20cm 
+14fr x 20 cm 
+🔹Enoxaparina sódica de 40 MG
+🔹monteluskat
+🔹aspirina
+🔹vitamina C
+Cualquier información al 04141797005 
+#Mérida",123,Ongoing News Story,Ongoing News Stories like 'Brexit',1220701888179359745,COVID-19,15,1,5,0,0058b0cb7e695890,,2021-01-27T21:09:00+00:00,everyone,1354536911629594627,Twitter for Android,False,1354536911629594627,,,,,,,,,,,,,,,,,,,,,51,60,Covid_19,254,261,Mérida,,,,,,,,,,,,,,,,,,,,,
+und,113471800,52,75,https://t.co/yDqIfFsUR1,https://twitter.com/bleimamr/status/1347986632415338496/photo/1,pic.twitter.com/yDqIfFsUR1,,,,,,0,16,ServicioPúblico,"#ServicioPúblico 
+#Covid_19 
+#Solidaridad 
+#Tachira https://t.co/yDqIfFsUR1",123,Ongoing News Story,Ongoing News Stories like 'Brexit',1220701888179359745,COVID-19,0,0,1,0,01a73d6169f504ac,31347986625972887554,2021-01-09T19:20:32+00:00,everyone,1347986632415338496,Twitter for Android,False,1347986632415338496,,,,,,,,,,,,,,,,,,,,,18,27,Covid_19,29,41,Solidaridad,,,,,,,,,,,,,,43,51,Tachira,,,,,
+es,146741538,227,250,https://t.co/YPMJ2rV6QG,https://www.gofundme.com/f/ayudemos-a-lalito-a-vencer-el-covid-19?utm_source=whatsapp-visit&utm_medium=chat&utm_campaign=p_cp+share-sheet,gofundme.com/f/ayudemos-a-l…,73,88,0.9007,Person,Dr. Edgar Rangel,0,6,01Ene,"#01Ene #ServicioPublico 
+Ayudemos a Lalito a vencer el COVID 19
+El es el Dr. Edgar Rangel “Lalo”, tío de mis queridos amigos Maria y Libio. A continuación la hija de Lalo nos detalla la situación:
+Mi papá, el Dr.…
+Lee más aquí https://t.co/YPMJ2rV6QG",123,Ongoing News Story,Ongoing News Stories like 'Brexit',1220701888179359745,COVID-19,21,0,3,0,01cb69a764a68d10,,2021-01-02T00:44:12+00:00,everyone,1345168985390800896,Twitter for Android,False,1345168985390800896,125,129,0.9193,Person,Maria,,,,,,,,,,,133,137,0.3472,Place,Libio,7,23,ServicioPublico,,,,,,,,,,,,,,,,,,,,166,169,0.6769,Person,Lalo
