@@ -8,4 +8,3 @@ statsmodels
 seaborn
 pytrends
 twarc
-
