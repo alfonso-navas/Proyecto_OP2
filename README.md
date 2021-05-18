@@ -7,6 +7,7 @@ LA-CoNGA physics
 
 ### Autores
 Alfonso Navas. Universidad Nacional de Colombia. 
+
 Eliana Bonalde. Universidad Industrial de Santander. 
 
 ### Supervisión
