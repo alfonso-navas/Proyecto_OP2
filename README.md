@@ -14,7 +14,7 @@ Eliana Bonalde. Universidad Industrial de Santander.
 Camila Rangel Smith. GitHub: @crangelsmith. 
 
 ### Colaboración
-Harvey Maddocks. gitHub: @HarveyMaddocks
+Harvey Maddocks. gitHub: @HarveyMaddocks.
 
 ___
 
@@ -37,7 +37,7 @@ Se recomienda ejecutar los Notebooks en el siguiente orden.
 
 
 
-## Instruciones para correr los notebooks:
+## Instruciones para correr los notebooks
 
 Este repositorio requiere tener instalado [conda](https://docs.conda.io/projects/conda/en/latest/index.html) y una version de Python 3.7 o mayor. 
 
