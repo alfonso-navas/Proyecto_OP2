@@ -37,7 +37,7 @@ Se recomienda ejecutar los Notebooks en el siguiente orden.
 
 
 
-## Instruciones para correr los notebooks
+## Instruciones para correr los Notebooks
 
 Este repositorio requiere tener instalado [conda](https://docs.conda.io/projects/conda/en/latest/index.html) y una version de Python 3.7 o mayor. 
 
