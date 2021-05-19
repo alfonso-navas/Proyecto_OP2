@@ -6,9 +6,9 @@ LA-CoNGA physics
 # Exploración de indicadores que reflejen la incidencia de COVID-19 en Venezuela usando fuentes de datos no oficiales
 
 ### Autores
-Alfonso Navas. Universidad Nacional de Colombia. 
+- Alfonso Navas. Universidad Nacional de Colombia. 
 
-Eliana Bonalde. Universidad Industrial de Santander. 
+- Eliana Bonalde. Universidad Industrial de Santander. 
 
 ### Supervisión
 Camila Rangel Smith. GitHub: @crangelsmith. 
