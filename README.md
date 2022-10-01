@@ -22,7 +22,6 @@ ___
 
 El objetivo principal de este trabajo es hacer una comparación mediante series de tiempo, correspondientes al periodo comprendido entre marzo de 2020 y mayo de 2021, entre datos numéricos oficiales del virus COVID-19 en Venezuela y datos no oficiales extraídos de las plataformas de GoFundMe, Twitter y Google Trends. Tomaremos como datos oficiales los estimados por el modelo del Instituto de Métricas y Evaluación de la Salud (IHME, por sus siglas en inglés), ya que según estimaciones de organizaciones nacionales e internacionales las cifras oficiales reportadas por el gobierno de Venezuela no corresponden a la realidad. Por medio del análisis de los datos extraídos, se muestran los mejores indicadores que refeljan la incidencia de Covid-19 en Venezuela. Python es el lenguaje de programación utilizado para extraer, almacenar, visualizar y analizar estos resultados, los cuales van a permitir tener una idea de la realidad que se está viviendo en Venezuela con respecto al virus.
 
-### Enlace para ver el video:  https://youtu.be/qBiwCj12TRM 
 
 ## Notebooks
 
